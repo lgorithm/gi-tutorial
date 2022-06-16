@@ -1,1 +1,1 @@
-another software for git tutorial version 1
+another software for git tutorial version 2
